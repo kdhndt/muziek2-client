@@ -1,0 +1,74 @@
+{
+  "_embedded": {
+    "trackList": [
+      {
+        "naam": "Lonesome Tonight",
+        "tijd": "00:05:19"
+      },
+      {
+        "naam": "In A Lonely Place",
+        "tijd": "00:06:26"
+      },
+      {
+        "naam": "Sooner Than You Think",
+        "tijd": "00:05:21"
+      },
+      {
+        "naam": "Run Wild",
+        "tijd": "00:03:55"
+      },
+      {
+        "naam": "Let's Go",
+        "tijd": "00:03:09"
+      },
+      {
+        "naam": "Every Little Counts",
+        "tijd": "00:04:47"
+      },
+      {
+        "naam": "Elegia",
+        "tijd": "00:04:53"
+      },
+      {
+        "naam": "Procession",
+        "tijd": "00:04:47"
+      },
+      {
+        "naam": "Your Silent Face",
+        "tijd": "00:05:59"
+      },
+      {
+        "naam": "Broken Promise",
+        "tijd": "00:03:56"
+      },
+      {
+        "naam": "Leave Me Alone",
+        "tijd": "00:04:57"
+      },
+      {
+        "naam": "Sunrise",
+        "tijd": "00:06:01"
+      },
+      {
+        "naam": "Cries And Whispers",
+        "tijd": "00:03:42"
+      },
+      {
+        "naam": "All Day Long",
+        "tijd": "00:05:18"
+      },
+      {
+        "naam": "Dreams Never End",
+        "tijd": "00:03:02"
+      }
+    ]
+  },
+  "_links": {
+    "tracks": {
+      "href": "http://localhost:8080/albums/1/tracks"
+    },
+    "self": {
+      "href": "http://localhost:8080/albums/1"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "album": "Retro - John McCready FAN",
+  "artiest": "New Order",
+  "_links": {
+    "self": {
+      "href": "http://localhost:8080/albums/1"
+    },
+    "tracks": {
+      "href": "http://localhost:8080/albums/1/tracks"
+    }
+  }
+}

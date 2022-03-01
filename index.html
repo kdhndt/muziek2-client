@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Albums</title>
+    <script src="index.js" defer></script>
+    <link rel="stylesheet" href="frontend.css">
+</head>
+<body>
+
+<label>Nummer album:
+    <input id="nummer" autofocus required type="number" min="1">
+</label>
+<button id="zoeken">Zoeken</button>
+
+<dl>
+    <dt>Album</dt>
+    <dd id="album"></dd>
+    <dt>Artiest</dt>
+    <dd id="artiest"></dd>
+</dl>
+<ul id="tracks"></ul>
+
+<div id="technischeFout" hidden class="fout">
+    Technische fout, contacteer helpdesk
+</div>
+<div id="albumNietGevondenFout" hidden class="fout">Album niet
+    gevonden.
+</div>
+</body>
+</html>
